@@ -19,20 +19,20 @@ Para visualizar todas as rotas basta acessar:
 
 Para rodar o projeto basta instalar as dependências localizadas no arquivo Pipfile, pode utilizar o Pipenv, bastando digitar:
 
-ˋˋˋ
+```
   Pipenv Install
-ˋˋˋ
+```
 
 Depois execute Pipenv shell para executar o ambiente virtual:
 
-ˋˋˋ
+```
   Pipenv shell
-ˋˋˋ
+```
 
 E por fim execute flask run para rodar o servidor do projeto:
 
-ˋˋˋ
+```
   flask run
-ˋˋˋ
+```
 
 Feito durante a live do Eduardo Mendes. [Link da live](https://www.youtube.com/watch?v=1_nQ5A2HcgU)  
